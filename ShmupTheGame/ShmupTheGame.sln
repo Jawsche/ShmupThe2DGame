@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShmupTheGame", "Assembly-CSharp-firstpass.csproj", "{6C67FA7D-9BA8-1D8A-EA85-D8500ABBC72E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{6C67FA7D-9BA8-1D8A-EA85-D8500ABBC72E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShmupTheGame", "Assembly-CSharp.csproj", "{747710F5-F0D4-ED86-E3EA-B8280B6A33EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{747710F5-F0D4-ED86-E3EA-B8280B6A33EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShmupTheGame", "Assembly-CSharp-Editor-firstpass.csproj", "{334826EF-96CA-40F7-B908-3BCC7DF35454}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{334826EF-96CA-40F7-B908-3BCC7DF35454}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
